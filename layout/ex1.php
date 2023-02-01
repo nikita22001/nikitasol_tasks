@@ -48,7 +48,7 @@ $title = "Exercise 1";
 
     <h1> Screen Shoot </h1>
 
-    <img src="layout/Screenshot.png" alt="screenshot"> 
+    <img src="Screenshot.png" alt="screenshot"> 
 
 
 
