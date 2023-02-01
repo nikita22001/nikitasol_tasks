@@ -10,4 +10,8 @@
     Suscipit repellat omnis expedita et voluptates molestiae. At, error natus aliquid deleniti alias quae ab exercitationem deserunt cupiditate omnis, reiciendis, dolorum veniam?
 </p>
 
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Suscipit repellat omnis expedita et voluptates molestiae. At, error natus aliquid deleniti alias quae ab exercitationem deserunt cupiditate omnis, reiciendis, dolorum veniam?
+</p>
+
 <? include "footer.php"?>
