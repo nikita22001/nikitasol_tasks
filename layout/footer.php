@@ -5,10 +5,13 @@
 <footer style="background-color: rgb(65, 7, 109); color: white;">
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright 
+  <div class="footer-copyright text-center py-3">© 2020 Copyright <br>
  
 <?php
-echo "\n Last modified: " . date ("l d F Y H:ia.", getlastmod());
+$fname = basename($_SERVER['PHP_SELF']);
+$last_modified = filemtime($fname);
+echo "Last modified on:" . date('l jS \o\f F Y, h:i:s A', $last_modified);
+
 ?>
 
   </div>
