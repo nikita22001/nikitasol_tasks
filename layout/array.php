@@ -1,5 +1,5 @@
 <?php $title = "Exercise 5";
-include "header.php"
+include "header.php";
  ?>
 
 <form action="" method="get">
