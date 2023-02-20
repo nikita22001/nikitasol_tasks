@@ -14,6 +14,10 @@
     color: white;
 }
     </style>
+
+    <script src="../layout/js/site.js">
+
+    </script>
 </head>
 <body>
   <div class="container" >
@@ -60,7 +64,8 @@
 </div> 
   <div class="row" style="margin-top: 10px; margin-bottom: 10px; margin-right: 5px;">
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
-      <h3>List of Tasks</h3>
-      some thing here
+      <h3>Simple CRUD App</h3>
+      <a class="nav-link" href="create.php" style="color:#000000" >Create Page</a>
+      <a class="nav-link" href="read.php" style="color:#000000" >Read Page</a>
     </div>
-    <div class="col-sm-9">
+    <div class="col-sm-9"> 
