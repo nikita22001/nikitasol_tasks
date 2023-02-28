@@ -67,5 +67,6 @@
       <h3>Simple CRUD App</h3>
       <a class="nav-link" href="create.php" style="color:#000000" >Create Page</a>
       <a class="nav-link" href="read.php" style="color:#000000" >Read Page</a>
+      <a class="nav-link" href="jsinclass.php" style="color:#000000" >Java Script</a>
     </div>
     <div class="col-sm-9"> 
